@@ -3,7 +3,7 @@
 For my final project at School Of Code bootcamp, my team and I were tasked to create an application to help travellers connect and 
 book shared accommodation. We used Next.js, Typescript, Tailwind CSS, Supabase, Jest and Cyprus.
 
-If you want to view our app, here is the <a href="https://nesst.vercel.app/">link</a> and our <a href="https://www.youtube.com/watch?v=SyPIFCDmNHA&ab_channel=NesstProject">Promo Video</a>.
+If you want to view our app, here is the <a href="https://nesst.vercel.app/">link</a> and our <a href="https://www.youtube.com/watch?v=SyPIFCDmNHA&ab_channel=NesstProject">Promo Video</a>.  <a href="https://github.com/tplatt92/nesst"/>View Code</a>
 
 Some Images from our application.promo video:
 
@@ -16,7 +16,6 @@ Some Images from our application.promo video:
 <img width="617" alt="image" src="https://github.com/ycho234/School-Of-Code-FINAL-PROJECT-NESST/assets/100493820/3f541546-295d-4bf0-b410-163be8ef3912">
 <img width="617" alt="image" src="https://github.com/ycho234/School-Of-Code-FINAL-PROJECT-NESST/assets/100493820/891ceb1c-d5ce-441d-a441-445600739e61">
 
-View <a href="https://github.com/tplatt92/nesst"/>Code</a>
 
 
 
